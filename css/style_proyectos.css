@@ -160,7 +160,7 @@ nav.sticky .button-work img {
     height: 450px;
     left: 0px;
     top: 0px;
-    background: url(/recursos/fondo.png);
+    background: url(../recursos/fondo.png);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -353,7 +353,7 @@ nav.sticky .button-work img {
 }
 
 .cont6-card {
-    background: url(/recursos/fondo.png);
+    background: url(../recursos/fondo.png);
     width: 1300px;
     height: 568px;
     display: flex;
